@@ -61,6 +61,10 @@ body {
     font-weight: 600;
 }
 
+#nav button:hover {
+    cursor: pointer;
+}
+
 #btn2 {
     background-color: orangered;
     color: white;
